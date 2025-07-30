@@ -18,7 +18,7 @@ Add `subtype_rs` as a dependency in your `Cargo.toml`:
 
 ```toml
 [dependencies]
-subtype_rs = "0.1"
+subtype_macro = "0.1.0"
 ```
 
 Then import the macro in your crate root or module:
