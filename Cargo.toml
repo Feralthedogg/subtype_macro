@@ -1,0 +1,22 @@
+[package]
+name        = "subtype_macro"
+version     = "0.1.0"
+edition     = "2021"
+description = "Ada‑style subtype attribute macro for Rust"
+license     = "MIT"
+repository  = "https://github.com/Feralthedogg/subtype_macro"
+homepage    = "https://github.com/Feralthedogg/subtype_macro"
+documentation = "https://github.com/Feralthedogg/subtype_macro"
+readme      = "README.md"
+keywords    = ["subtype", "macro", "rust"]
+categories   = ["development-tools", "parsing"]
+
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn            = { version = "1.0", features = ["full"] }
+quote          = "1.0"
+proc-macro2    = "1.0"
+proc-macro-crate = "1.2"
