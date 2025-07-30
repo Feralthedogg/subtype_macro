@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
-Contributions welcome! Please open issues or pull requests on [GitHub](https://github.com/yourusername/subtype_rs).
+Contributions welcome! Please open issues or pull requests on [GitHub](https://github.com/Feralthedogg/subtype_rs).
